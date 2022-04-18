@@ -1,2 +1,16 @@
-# CogSNN
-The cognitive computation toolbox for biologically plausible spiking neural networks.
+# Introduction
+CogSNN is a cognitive computation toolbox for biologically plausible spiking neural networks.
+
+# Homepages of related papers
+https://bii.ia.ac.cn/~tielin.zhang/publication.html
+
+# Authors
+Tielin Zhang
+Hongxing Liu
+Xiang Cheng
+Duzhen Zhang
+Shuncheng Jia
+Xuan Han
+Ruichen Zuo
+Qingyu Wang
+Xuanle Zhao
