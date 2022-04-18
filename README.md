@@ -11,6 +11,8 @@ https://bii.ia.ac.cn/~tielin.zhang/publication.html
 # Hardware for CogSNN
 
 
+# Brain-Computer Interface for CogSNN
+
 # Authors
 Tielin Zhang
 Hongxing Liu
